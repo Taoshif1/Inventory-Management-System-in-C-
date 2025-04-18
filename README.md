@@ -37,6 +37,13 @@ This project uses:
 When I started this project, I just had an idea: “Let’s try making something useful using only C.”  
 I knew a little about structs and basic file handling but managing real-world problems was **super challenging and i enjoyed till the last second**.
 
+## 🧠 What I Learned
+
+- Real use of **structs**, **arrays** and **functions**
+- How to manage **data flow** between runtime and files like a pro
+- The difference between **temporary output** and **permanent storage**
+- The joy of building something useful from scratch 🧑‍💻🔥
+
 ### 🔍 Problems I Faced:
 
 - Making data **persistent** using file save/load (struct to file and back)
@@ -53,14 +60,6 @@ I knew a little about structs and basic file handling but managing real-world pr
 But with **dedication**, **Googling**, **debugging** and **love for the grind**, Glad I pushed through.
 
 ---
-
-## 🧠 What I Learned
-
-- Real use of **structs**, **arrays** and **functions**
-- How to manage **data flow** between runtime and files like a pro
-- The difference between **temporary output** and **permanent storage**
-- The joy of building something useful from scratch 🧑‍💻🔥
-
 
 ## 📸 Demo 
 > Item 1 - Apple - Added. 
