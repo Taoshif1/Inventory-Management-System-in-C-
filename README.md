@@ -106,18 +106,20 @@ Want to make this project even better? Fork it, improve it and make a pull reque
 
 ---
 
-## ⭐ Show Some Love
-
-If this project helped you or inspired you, please consider **giving it a ⭐ on GitHub**.  
-It motivates me to keep building, keep learning and keep sharing ❤️
-
----
-
 ## 👤 Author
 
 **Gazi Taoshif**  
 🎓 CSE Student at East West University, Dhaka  
 📧 Email: taoshif2@gmail.com  
+
+---
+
+---
+
+## ⭐ Show Some Love
+
+If this project helped you or inspired you, please consider **giving it a ⭐ on GitHub**.  
+It motivates me to keep building, keep learning and keep sharing ❤️
 
 ---
 
