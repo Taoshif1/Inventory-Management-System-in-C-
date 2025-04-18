@@ -67,9 +67,24 @@ But with **dedication**, **Googling**, **debugging** and **love for the grind**,
 ![image](https://github.com/user-attachments/assets/8addfcbf-93fe-45c2-8756-8ef3b5c18525)
 > Item 2 - Lemonade - Added & Updated
 ![image](https://github.com/user-attachments/assets/2fdb0f87-669a-4675-a1d4-d9d04f2cc17b)
-
-
-
+> Item 3 - Chilis - Added
+> Item 4 - Burger - Added
+![image](https://github.com/user-attachments/assets/d3ffe188-6b7a-46e4-ad35-3df8197258cd)
+> Item 5 - Pizza - Added
+> Item 6 - Lollipop - Added
+![image](https://github.com/user-attachments/assets/d5b30d5b-aca5-4776-bf52-9faaaa364f92)
+> Inventory Viewed
+> Searched for Apple
+![image](https://github.com/user-attachments/assets/ac462e97-c4e2-4bd7-9a61-eb82e3b68d51)
+> Count Items
+> Low Stock Alert
+![image](https://github.com/user-attachments/assets/ea70609c-4399-4870-9d59-99ba6a52f103)
+> Inventory sorted by quantity (high to low)
+![image](https://github.com/user-attachments/assets/40a32565-52f7-463d-a5f0-08bb0ec90867)
+> Filter by Category
+![image](https://github.com/user-attachments/assets/d3e5e146-53a8-4bdb-b3ea-21c0b483880a)
+> Sell Item
+![image](https://github.com/user-attachments/assets/f3c1fa2d-b37c-4418-8816-a3c380268481)
 ---
 
 ## 🔮 Future Plans
