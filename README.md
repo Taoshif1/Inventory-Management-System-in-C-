@@ -63,7 +63,9 @@ But with **dedication**, **Googling**, **debugging** and **love for the grind**,
 
 
 ## 📸 Demo 
-> 
+> Item 1 - Apple added. 
+![image](https://github.com/user-attachments/assets/8addfcbf-93fe-45c2-8756-8ef3b5c18525)
+
 
 ---
 
