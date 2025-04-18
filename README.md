@@ -35,7 +35,7 @@ This project uses:
 ## 💥 The Full Journey (A to Z)
 
 When I started this project, I just had an idea: “Let’s try making something useful using only C.”  
-I knew a little about structs and basic file handling but managing real-world problems was **super challenging but i enjoyed till the last second**.
+I knew a little about structs and basic file handling but managing real-world problems was **super challenging and i enjoyed till the last second**.
 
 ### 🔍 Problems I Faced:
 
