@@ -63,8 +63,10 @@ But with **dedication**, **Googling**, **debugging** and **love for the grind**,
 
 
 ## 📸 Demo 
-> Item 1 - Apple added. 
+> Item 1 - Apple - Added. 
 ![image](https://github.com/user-attachments/assets/8addfcbf-93fe-45c2-8756-8ef3b5c18525)
+> Item 2 - Lemonade - Added & Updated
+![image](https://github.com/user-attachments/assets/4dbacb8e-b6b2-4323-806b-3f70cd4035fa)
 
 
 ---
